@@ -21,18 +21,6 @@ _오빠! 톤 많아? 퍼스널 컬러 자가진단_
 
 > Github 링크: https://github.com/SaekKkanDa/OppaManyColorTone
 
-## ✨ Installation
-
-```bash
-nvm use
-yarn
-yarn run dev
-```
-
-## 📙 Guide
-
-[0 - 에러 핸들링 디자인](https://github.com/SaekKkanDa/OppaManyColorTone/wiki/%EC%97%90%EB%9F%AC-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%94%94%EC%9E%90%EC%9D%B8)
-
 ## 🙏 Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -109,6 +97,7 @@ yarn run dev
 
 - TypeScript
 - React
+- Next.js
 - styled-components
 - Recoil
 - Firebase
