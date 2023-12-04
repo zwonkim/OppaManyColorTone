@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://omct.web.app/" rel="noopener" target="_blank"><img src="./readme/omct-thumbnail.png" alt="logo"></a>
+<p align="center" width="50%">
+  <a href="https://omct.web.app/" rel="noopener" target="_blank"><img src="./readme/omct-thumbnail.png" alt="logo" ></a>
 </p>
 
 # 오빠! 톤 많아?
@@ -13,13 +13,10 @@ _오빠! 톤 많아? 퍼스널 컬러 자가진단_
 
 내 퍼스널 컬러는 뭘까? 한 번쯤 궁금한 적 있지 않나요?<br>
 하지만 퍼스널 컬러 진단 받으러 가려면 비싸고... 귀찮죠.<br>
-내 사진 한 장으로 직접! 비용 없이 빠르고 간편하게! 나의 퍼스널 컬러를 찾아보아요.
-
-</p>
-
+내 사진 한 장으로 직접! 비용 없이 빠르고 간편하게! 나의 퍼스널 컬러를 찾아보아요.<br>
 > 배포 링크: https://omct.web.app/
 
-> Github 링크: https://github.com/SaekKkanDa/OppaManyColorTone
+</p>
 
 ## 🙏 Contributors
 
